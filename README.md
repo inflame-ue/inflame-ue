@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**inflame-ue/inflame-ue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ilia. I work as a data annotator specializing in agentic code systems. Over the past few months, I've been diving deep into backend engineering with **Go**.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm building right now
+*   A command-line tool for personal match data analysis for Valve's *Deadlock* (sharing this repository very soon!).
+*   Various other Go project, mostly following the roadmap here: [roadmap.sh](https://roadmap.sh/backend/projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I am actively looking for a full-time junior/mid Go backend role.
+
+---
+
+## 📚 Books I'm reading
+
+*   [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency) — Kirill Bobrov
+*   [The Man Who Loved Only Numbers](https://www.amazon.com/Man-Who-Loved-Only-Numbers/dp/0786884061) — Paul Hoffman
+
+---
+
+## 📫 Connect with me
+
+[linkedin](https://linkedin.com/in/iliaoberemok) | i.oberemok777@gmail.com

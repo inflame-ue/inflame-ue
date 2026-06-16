@@ -8,15 +8,12 @@ I'm Ilia. I work as a data annotator specializing in agentic code systems. Over 
 
 🚀 I am actively looking for a full-time junior/mid Go backend role.
 
----
 
-## 📚 Books I'm reading
+### 📚 Books I'm reading
 
 *   [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency) — Kirill Bobrov
 *   [The Man Who Loved Only Numbers](https://www.amazon.com/Man-Who-Loved-Only-Numbers/dp/0786884061) — Paul Hoffman
 
----
-
-## 📫 Connect with me
+### 📫 Connect with me
 
 [linkedin](https://linkedin.com/in/iliaoberemok) | i.oberemok777@gmail.com

@@ -6,6 +6,8 @@ I'm Ilia. I work as a data annotator specializing in agentic code systems. Over 
 - A command-line tool for live match data analysis of deadlock games [dlive](https://github.com/inflame-ue/dlive). Kudos to amazing [deadlock-api](https://github.com/deadlock-api/deadlock-api) developers.
 - Various other Go project, mostly following the roadmap here: [roadmap.sh](https://roadmap.sh/backend/projects)
 
+P.S> Also writing my senior thesis on "Classification of UHF-Algebras under Supernatural Numbers".
+
 ### 📚 Books I'm reading
 - [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
 - [The Man Who Loved Only Numbers](https://www.amazon.com/Man-Who-Loved-Only-Numbers/dp/0786884061)
